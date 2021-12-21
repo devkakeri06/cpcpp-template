@@ -1,3 +1,8 @@
+/*
+The following code to do XYZ task has been taken from ABC (website name)
+www.websitelink.com 5 (website link)
+*/
+
 #pragma GCC optimize "trapv"
 #pragma GCC optimize("Ofast")
 #pragma GCC optimize("O3", "unroll-loops")
