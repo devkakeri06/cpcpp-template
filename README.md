@@ -1,1 +1,1 @@
-# cpcpp-template
+Competitive Programming template
